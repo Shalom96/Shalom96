@@ -16,11 +16,12 @@ I love to travel.
 I love classical musics.
 
 📫 Reach out to me on
-instagram linkedin twitter - 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+linkedin - 
+www.linkedin.com/in/shalom-odori
+
+
+
+
 
 <!---
 Shalom96/Shalom96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
