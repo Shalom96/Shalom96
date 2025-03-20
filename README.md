@@ -2,7 +2,7 @@
 
 I am a cybersecurity enthusiast dedicated to learning and applying best practices to protect systems and data. Currently, I am focusing on penetration testing and threat analysis.
 
-# ⚡PASSION:
+# ⚡PASSION: ...
 
 I have a strong interest in penetration testing and helping companies enhance their security posture. Sometimes, I participate in bug bounty programs and stay updated on the latest security trends.
 
@@ -11,7 +11,7 @@ I enjoy video editing.
 I love to travel.
 I love classical musics.
 
-# ⚡Technical Skills
+# ⚡Technical Skills: ...
 
 Network Analysis: Wireshark, tcpdump
 
@@ -21,7 +21,7 @@ Cloud Security Tools: AWS Inspector, Azure Security Center, Google Cloud Securit
 
 Web Application Security Tools: Nessus
 
-# ⚡Programming Languages:
+# ⚡Programming Languages: ...
 html
 CSS
 Python
