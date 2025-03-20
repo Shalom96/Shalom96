@@ -8,7 +8,9 @@ I have a strong interest in penetration testing and helping companies enhance th
 
 # ⚡ FUN FACT: ...
 I enjoy video editing.
-I love to travel.
+
+I love to travelling.
+
 I love classical musics.
 
 # ⚡Technical Skills: ...
