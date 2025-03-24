@@ -7,7 +7,7 @@ I'm a cybersecurity enthusiast dedicated to learning and applying best practices
 I have a strong interest in penetration testing and helping companies enhance their security posture. Sometimes, I participate in bug bounty programs and stay updated on the latest security trends.
 
 # ⚡ FUN FACT: ...
-I enjoy video editing.
+I enjoy editing videos.
 
 I love to travelling.
 
