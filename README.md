@@ -10,6 +10,7 @@ I have a strong interest in penetration testing and helping companies enhance th
 I enjoy editing videos.
 
 I love to travelling.
+                                                                                       ![images](https://github.com/user-attachments/assets/12713bc8-8cbd-4af3-ac5e-9e69af203ca3)
 
 I love classical musics.
 
@@ -44,7 +45,6 @@ Javascript
 linkedin - 
 https://www.linkedin.com/in/shalom-odori?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
-![images](https://github.com/user-attachments/assets/12713bc8-8cbd-4af3-ac5e-9e69af203ca3)
 
 
 
