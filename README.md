@@ -10,7 +10,6 @@ I have a strong interest in penetration testing and helping companies enhance th
 I enjoy editing videos.
 
 I love to travelling.
-                                                                                       ![images](https://github.com/user-attachments/assets/12713bc8-8cbd-4af3-ac5e-9e69af203ca3)
 
 I love classical musics.
 
@@ -37,6 +36,7 @@ Python
 Javascript
 
 
+  ![images](https://github.com/user-attachments/assets/12713bc8-8cbd-4af3-ac5e-9e69af203ca3)
 
 
 
