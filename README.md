@@ -9,7 +9,7 @@ I have a strong interest in penetration testing and helping companies enhance th
 # ⚡ FUN FACT: ...
 I enjoy editing videos.
 
-I love to travelling.
+I love travelling.
 
 I love classical musics.
 
@@ -24,7 +24,7 @@ Cloud Security Tools: AWS Inspector, Azure Security Center, Google Cloud Securit
 Web Application Security Tools: Nessus
 
 # ⚡Programming Languages: ...
-html
+Html
 
 
 CSS
