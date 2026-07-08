@@ -57,8 +57,8 @@ I enjoy building practical cybersecurity projects that demonstrate real-world sk
 
   ## CONTACT
   - Email: odorishalom@gmail.com
-  - linkedin - 
-https://www.linkedin.com/in/shalom-odori?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+  - linkedin - www.linkedin.com/in/shalom-odori
+
 
 
 
