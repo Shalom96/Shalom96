@@ -24,7 +24,7 @@ I enjoy building practical cybersecurity projects that demonstrate real-world sk
   - Windows
   - Linux
 
-  ### ⚡NETWORKING
+ ### ⚡NETWORKING
     - TCP/IP
     - DNS
     - HTTP
@@ -33,7 +33,7 @@ I enjoy building practical cybersecurity projects that demonstrate real-world sk
     - TELNET
     - SUBNETTING
 
-###  ⚡CYBERSECURITY TOOLS
+### ⚡CYBERSECURITY TOOLS
 - Nmap
 - Wireshark
 - BurpSuite
@@ -50,7 +50,7 @@ I enjoy building practical cybersecurity projects that demonstrate real-world sk
 
   ## EDUCATION
   - NIIT Port-Harcourt Cybersecurity Program
-  - 
+  - Niger Delta University Petroleum Engineering 
 
   ## CONTACT
   - Email: odorishalom@gmail.com
