@@ -1,6 +1,6 @@
 # Hi, i'm Shalom Odori
 
-## ⚡ABOUT ME
+## 🔍ABOUT ME
 I'm a cybersecurity intern at NIITPH, passionate about offensive and defensive cybersecurity.
 I enjoy building practical cybersecurity projects that demonstrate real-world skills
 - Pentration Testing
