@@ -21,7 +21,7 @@ I enjoy building practical cybersecurity projects that demonstrate real-world sk
   |Log Analysis | Analyzed IIS and Windows Events Logs to identify attacks | Coming soon |
   |Malware Analysis | Analyze malware through static and dynamic techniques to support threat detection and incident response | https://github.com/Shalom96/Malware-Analysis.git |
 
-  ##  ⚡SKILLS
+  ##  🧰 TECHNICAL SKILLS
   ### ⚡OPERATING SYSTEMS
   - Windows
   - Linux
