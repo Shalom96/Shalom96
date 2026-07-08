@@ -19,6 +19,7 @@ I enjoy building practical cybersecurity projects that demonstrate real-world sk
   |---------|-------------|-------------|
   |Osint Investigation | Conducted an OSINT investigation on a target organization | Coming soon |
   |Log Analysis | Analyzed IIS and Windows Events Logs to identify attacks | Coming soon |
+  |Malware Analysis | Analyze malware through static and dynamic techniques to support threat detection and incident response | https://github.com/Shalom96/Malware-Analysis.git |
 
   ##  ⚡SKILLS
   ### ⚡OPERATING SYSTEMS
