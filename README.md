@@ -46,7 +46,7 @@ I enjoy building practical cybersecurity projects that demonstrate real-world sk
 - Git
 - GitHub
 
-  ## CERTIFICATIONS
+  ## 🧾CERTIFICATIONS
   -ISC2 CC (In Progress)
   
   -CompTIA Security+ (In Progress)
