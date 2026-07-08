@@ -1,25 +1,65 @@
-##👋 Hi, I'm Shalom Odori
+# Hi, i'm Shalom Odori
 
-I'm a cybersecurity enthusiast dedicated to learning and applying best practices to protect systems and data. Currently, I am focusing on penetration testing and threat analysis.
+## ⚡ABOUT ME
+I'm a cybersecurity intern at NIITPH, passionate about offensive and defensive cybersecurity.
+I enjoy building practical cybersecurity projects that demonstrate real-world skills
+- Pentration Testing
+- Log Analysis
+- Malware Analysis
+- Digital Forensics
+- OSINT
+- Vulnerability Assessment
+- Threat Hunting
+- Social Engineering
+- Governance Risk and Compliance
+  
+ ## ⚡PROJECTS
+  | PROJECT | DESCRIPTION | REPROSITORY |
+  |---------|-------------|-------------|
+  |Osint Investigation | Conducted an OSINT investigation on a target organization | Coming soon |
+  |Log Analysis | Analyzed IIS and Windows Events Logs to identify attacks | Coming soon |
 
-# ⚡PASSION: ...
+  ##  ⚡SKILLS
+  ### ⚡OPERATING SYSTEMS
+  - Windows
+  - Linux
 
-I have a strong interest in penetration testing and helping companies enhance their security posture. Sometimes, I participate in bug bounty programs and stay updated on the latest security trends.
+  ### ⚡NETWORKING
+    - TCP/IP
+    - DNS
+    - HTTP
+    - FTP
+    - SSH
+    - TELNET
+    - SUBNETTING
 
-# ⚡ FUN FACT: ...
-I enjoy editing videos.
+###  ⚡CYBERSECURITY TOOLS
+- Nmap
+- Wireshark
+- BurpSuite
+- Splunk
+- Snort
+- Suricata
+- ELK
+- Git
+- GitHub
 
-I love travelling.
+  ## CERTIFICATIONS
+  -ISC2 CC (In Progress)
+  -CompTIA Security+ (In Progress)
 
-I love classical musics.
+  ## EDUCATION
+  - NIIT Port-Harcourt Cybersecurity Program
+  - 
 
-# ⚡Technical Skills: ...
+  ## CONTACT
+  - Email: odorishalom@gmail.com
+  - linkedin - 
+https://www.linkedin.com/in/shalom-odori?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
-Network Analysis: Wireshark, tcpdump
 
-Penetration Testing: Metasploit, Burp Suite,Kali,nmap
 
-Web Application Security Tools: Nessus
+
 
 # ⚡Programming Languages: ...
 Html
@@ -36,11 +76,7 @@ CSS
 
 
 
-# 📫 Reach out to me on
-linkedin - 
-https://www.linkedin.com/in/shalom-odori?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
-Email: odorishalom@gmail.com  Telephone number: 08168638054
 
 
 
