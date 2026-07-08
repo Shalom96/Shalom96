@@ -6,6 +6,7 @@ I enjoy building practical cybersecurity projects that demonstrate real-world sk
 - Pentration Testing
 - Log Analysis
 - Malware Analysis
+- Cryptography
 - Digital Forensics
 - OSINT
 - Vulnerability Assessment
