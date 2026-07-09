@@ -35,7 +35,7 @@ I enjoy building practical cybersecurity projects that demonstrate real-world sk
     - TELNET
     - SUBNETTING
 
-### ⚡CYBERSECURITY TOOLS
+### 🔧 CYBERSECURITY TOOLS
 
 ## Virtualization & Labs
 VMware Workstation
