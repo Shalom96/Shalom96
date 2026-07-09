@@ -139,7 +139,10 @@ Suricata
 
   ## EDUCATION
   - NIIT Port-Harcourt Cybersecurity Program
-  - Niger Delta University Petroleum Engineering 
+    
+  - Tonye Infosec: Mentorship and Internship Program
+    
+  - Niger Delta University - Petroleum Engineering 
 
 
   ## CONTACT
