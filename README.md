@@ -1,5 +1,5 @@
 # Hi, i'm Shalom Odori
-  ## Cybersecurity Intern |
+  ## Cybersecurity Intern @ NIITPH | SOC Analyst | Malware Analyst | Building practical security projects
 
 ## 🔍ABOUT ME
 I'm a cybersecurity intern at NIITPH, passionate about offensive and defensive cybersecurity.
