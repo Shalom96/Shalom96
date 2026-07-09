@@ -14,7 +14,7 @@ I enjoy building practical cybersecurity projects that demonstrate real-world sk
 - Social Engineering
 - Governance Risk and Compliance
   
- ## ⚡PROJECTS
+ ## 🔭 PROJECTS
   | PROJECT | DESCRIPTION | REPROSITORY |
   |---------|-------------|-------------|
   |Osint Investigation | Conducted an OSINT investigation on a target organization | Coming soon |
