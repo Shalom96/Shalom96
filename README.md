@@ -39,66 +39,94 @@ I enjoy building practical cybersecurity projects that demonstrate real-world sk
 
 ## Virtualization & Labs
 VMware Workstation
+
 Oracle VirtualBox
+
 Hyper-V
+
 Docker
 
 ## OSINT (Open-source intelligence)
 theHarvester
+
 Maltego
+
 Shodan
 
 ## Vulnerability Assessment
 Nessus
+
 OpenVAS (Greenbone)
+
 Qualys
 
 ## Network Analysis
 Wireshark
+
 tcpdump
+
 Nmap
+
 Netcat
 
 ## Web Application Security
 Burp Suite
+
 OWASP ZAP
+
 Nikto
+
 Gobuster
+
 Dirb
 
 ## Penetration Testing
 Metasploit Framework
+
 Hydra
+
 SQLmap
+
 John the Ripper
+
 Hashcat
+
 Aircrack-ng
 
 ## Digital Forensics
 Autopsy
+
 FTK Imager
 
 ## Malware Analysis
 PEStudio
+
 FLOSS
+
 Detect It Easy (DIE)
+
 VirusTotal
 
 ## Threat Intelligence
 MISP
+
 OpenCTI
 
 ## cryptography
 Openssh
+
 Openssl
+
 GPG
 
 ## Security Monitoring & SIEM
 Splunk
+
 ELK Stack (Elasticsearch, Logstash, Kibana)
 
 ## Intrusion Detection & Prevention
 Snort
+
 Suricata
 
 
