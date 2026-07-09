@@ -130,14 +130,17 @@ Snort
 Suricata
 
 
+
 ### 🧾CERTIFICATIONS
   -ISC2 CC (In Progress)
   
   -CompTIA Security+ (In Progress)
 
+
   ## EDUCATION
   - NIIT Port-Harcourt Cybersecurity Program
   - Niger Delta University Petroleum Engineering 
+
 
   ## CONTACT
   - Email: odorishalom@gmail.com
