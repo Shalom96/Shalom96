@@ -36,17 +36,73 @@ I enjoy building practical cybersecurity projects that demonstrate real-world sk
     - SUBNETTING
 
 ### ⚡CYBERSECURITY TOOLS
-- Nmap
-- Wireshark
-- BurpSuite
-- Splunk
-- Snort
-- Suricata
-- ELK
-- Git
-- GitHub
 
-  ## 🧾CERTIFICATIONS
+## Virtualization & Labs
+VMware Workstation
+Oracle VirtualBox
+Hyper-V
+Docker
+
+## OSINT (Open-source intelligence)
+theHarvester
+Maltego
+Shodan
+
+## Vulnerability Assessment
+Nessus
+OpenVAS (Greenbone)
+Qualys
+
+## Network Analysis
+Wireshark
+tcpdump
+Nmap
+Netcat
+
+## Web Application Security
+Burp Suite
+OWASP ZAP
+Nikto
+Gobuster
+Dirb
+
+## Penetration Testing
+Metasploit Framework
+Hydra
+SQLmap
+John the Ripper
+Hashcat
+Aircrack-ng
+
+## Digital Forensics
+Autopsy
+FTK Imager
+
+## Malware Analysis
+PEStudio
+FLOSS
+Detect It Easy (DIE)
+VirusTotal
+
+## Threat Intelligence
+MISP
+OpenCTI
+
+## cryptography
+Openssh
+Openssl
+GPG
+
+## Security Monitoring & SIEM
+Splunk
+ELK Stack (Elasticsearch, Logstash, Kibana)
+
+## Intrusion Detection & Prevention
+Snort
+Suricata
+
+
+### 🧾CERTIFICATIONS
   -ISC2 CC (In Progress)
   
   -CompTIA Security+ (In Progress)
