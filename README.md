@@ -25,8 +25,8 @@ Cybersecurity Analyst with hands-on experience in vulnerability assessment, malw
 - Vulnerability Assessment
 - Threat Hunting
 - Social Engineering
-  
-  ### ⚡OPERATING SYSTEMS
+
+ ### ⚡OPERATING SYSTEMS
   - Windows
   - Linux
 
@@ -149,7 +149,7 @@ Suricata
   - Niger Delta University - Petroleum Engineering 
 
 
-  ## CONTACT
+ ## CONTACT
   - Email: odorishalom@gmail.com
   - linkedin - www.linkedin.com/in/shalom-odori
 
