@@ -20,6 +20,7 @@ I enjoy building practical cybersecurity projects that demonstrate real-world sk
   |Osint Investigation | Conducted an OSINT investigation on a target organization | Coming soon |
   |Log Analysis | Analyzed IIS and Windows Events Logs to identify attacks | https://github.com/Odorishalom/Log-Analysis.git |
   |Malware Analysis | Analyze malware through static and dynamic techniques to support threat detection and incident response | https://github.com/Odorishalom/Malware-Analysis.git |
+  |Enterprise Vulnerability Assessment and Analysis | A structured vulnerability assessment and analysis project on enterprise lab systems, using OpenVAS, Nessus, and Zenmap to identify security weaknesses, assess risk, and deliver remediation recommendations aligned with CVSS and NIST standards | coming soon |
 
   ##  🧰 TECHNICAL SKILLS
   ### ⚡OPERATING SYSTEMS
