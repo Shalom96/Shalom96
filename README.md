@@ -14,7 +14,7 @@ Cybersecurity Analyst with hands-on experience in vulnerability assessment, malw
 
   ##  🧰 TECHNICAL SKILLS
   
- -Network Security
+ - Network Security
 - Log Analysis
 - Malware Analysis
 - Cryptography
