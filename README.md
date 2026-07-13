@@ -1,19 +1,9 @@
 # Hi, i'm Shalom Odori
 
 ## 🔍ABOUT ME
-I'm a cybersecurity intern at NIITPH, passionate about offensive and defensive cybersecurity.
-I enjoy building practical cybersecurity projects that demonstrate real-world skills
-- Pentration Testing
-- Log Analysis
-- Malware Analysis
-- Cryptography
-- Digital Forensics
-- OSINT
-- Vulnerability Assessment
-- Threat Hunting
-- Social Engineering
-- Governance Risk and Compliance
-  
+Cybersecurity Analyst with hands-on experience in vulnerability assessment, malware analysis, network security, and digital forensics. I build practical security projects, document real-world labs, and continuously expand my expertise to help organizations identify and mitigate cyber threats.
+
+
  ## 🔭 PROJECTS
   | PROJECT | DESCRIPTION | REPROSITORY |
   |---------|-------------|-------------|
@@ -23,6 +13,19 @@ I enjoy building practical cybersecurity projects that demonstrate real-world sk
   |Enterprise Vulnerability Assessment and Analysis | A structured vulnerability assessment and analysis project on enterprise lab systems, using OpenVAS, Nessus, and Zenmap to identify security weaknesses, assess risk, and deliver remediation recommendations aligned with CVSS and NIST standards | https://github.com/Odorishalom/Enterprise-Vulnerability-Assessment.git|
 
   ##  🧰 TECHNICAL SKILLS
+  
+ -Network Security
+- Log Analysis
+- Malware Analysis
+- Cryptography
+- Security Operations Centre (SOC)
+- Digital Forensics
+- OSINT
+-  Pentration Testing
+- Vulnerability Assessment
+- Threat Hunting
+- Social Engineering
+  
   ### ⚡OPERATING SYSTEMS
   - Windows
   - Linux
